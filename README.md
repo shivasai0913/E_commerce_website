@@ -17,4 +17,3 @@ Further you can proceed for checkout fill all your details in proper format such
 
 I will further attach the screenshots of the webpage in screenshots folder.
 
-Here is a similar but cleaner version of this project E-COMMERCE-STORE
